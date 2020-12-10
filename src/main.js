@@ -93,11 +93,6 @@ var questions = [
     'Which is used for Connect To Database?',
     ['PHP', 'HTML', 'JS', 'All'],
     'PHP'
-  ),
-  new Question(
-    'Webdevtrick.com is about..',
-    ['Web Design', 'Graphic Design', 'SEO & Development', 'All'],
-    'All'
   )
 ];
 
